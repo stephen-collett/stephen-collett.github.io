@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Stephen Collett PhD.</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Stephen Collett PhD.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Stephen Collett</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynamics of Saxothuringian subduction channel/wedge constrained by phase‐equilibria modelling and micro‐fabric analysis</title>
+      <link>/publication/saxothuringian-subduction/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/saxothuringian-subduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kabul Block (Afghanistan), a segment of the Columbia Supercontinent, with a Neoproterozoic metamorphic overprint</title>
+      <link>/publication/kabul-block-gr/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/kabul-block-gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressure–temperature evolution of Neoproterozoic metamorphism in the Welayati Formation (Kabul Block), Afghanistan</title>
+      <link>/publication/welayati/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/welayati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metamorphism and geodynamics of the Proterozoic Kabul Block: Preservation and modification of crustal fragments within an orogenic zone</title>
+      <link>/publication/thesis/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymetamorphic evolution of the granulite-facies Paleoproterozoic basement of the Kabul Block, Afghanistan</title>
+      <link>/publication/kabul-granulite/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/kabul-granulite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eclogite facies rocks of the Monotonous unit, clue to Variscan suture in the Moldanubian Zone (Bohemian Massif)</title>
+      <link>/publication/moldanubian-eclogite/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/moldanubian-eclogite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magmatism and metamorphism linked to the accretion of continental blocks south of the Hindu Kush, Afghanistan</title>
+      <link>/publication/hindu-kush/</link>
+      <pubDate>Thu, 15 Aug 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/hindu-kush/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

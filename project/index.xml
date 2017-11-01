@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Stephen Collett PhD.</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Stephen Collett PhD.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Stephen Collett</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 13:41:37 +0100</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The role of inherited continental margin architecture on early Variscan convergence</title>
+      <link>/project/inherited-margin/</link>
+      <pubDate>Wed, 01 Nov 2017 13:41:37 +0100</pubDate>
+      
+      <guid>/project/inherited-margin/</guid>
+      <description>&lt;p&gt;It is well known that the inherited architecture of extended continental margins controls the collisional processes and deformation structure of ensuing orogens. However, the classical hyper-extended margins of the Atlantic type differ substantially from the extended continental margins above the west-Pacific subduction systems, which are characterized by massive crustal melting, intrusion of large portions of mafic magmas and HT-LP metamorphism. In this project, we focus on a Pacific type hot margin developed during Ordovician times along the northern margin of Gondwana and was subsequently incorporated into the Devonian subduction-collisional structure of the western margin of the Bohemian Massif. We rely on a multidisciplinary approach combining geological and geophysical methods to characterize the architecture of such an orogen and propose its evolutionary thermomechanical model which will be tested by means of numerical modelling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Institutional Support and Twinning in Geoscience between Kabul, Peshawar, Leicester, Prague and Keele Universities</title>
+      <link>/project/delphe/</link>
+      <pubDate>Wed, 01 Nov 2017 11:05:37 +0100</pubDate>
+      
+      <guid>/project/delphe/</guid>
+      <description>&lt;p&gt;Afghanistan’s higher education provision suffered immensely due to 30 years of conflict and the long-term neglect of universities under Taliban rule. This project funded by the British Council under the Development Partnerships in Higher Education (DelPHE) scheme was designed at institutional strengthening of geology departments in Peshawar in Pakistan and Kabul in Afghanistan through partnerships with Leicester, Keele and Prague universities. The project included collaborative research, workshops, conferences, and faculty exchange.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
